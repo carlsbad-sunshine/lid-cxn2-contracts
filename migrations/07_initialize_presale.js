@@ -23,6 +23,8 @@ async function initialize(accounts,networkName) {
       presaleParams.lidEthBP,
       presaleParams.referralBP,
       presaleParams.hardcap,
+      presaleParams.startTime,
+      presaleParams.endTime,
       owner,
       timer.address,
       redeemer.address,
