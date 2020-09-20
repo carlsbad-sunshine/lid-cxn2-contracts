@@ -34,6 +34,8 @@ config.redeemer = {
 };
 
 config.presale = {
+  startTime: 1600443840,
+  endTime: 172800,
   maxBuyPerAddress: ether("25"),
   uniswapEthBP: 5000,
   uniswapLidEthBP: 1000,
